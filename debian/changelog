@@ -1,4 +1,4 @@
-firmware-iwlwifi-nitrux (0.0.1)  nitrux; urgency=medium
+firmware-intel-nitrux (0.0.1)  nitrux; urgency=medium
 
   * Create package.
 
