@@ -1,0 +1,14 @@
+Source: firmware-intel-nitrux
+Section: misc
+Priority: optional
+Maintainer: Uri Herrera <uri_herrera@nxos.org>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/Nitrux/firmware-iwlwifi-nitrux
+
+
+Package: firmware-intel-nitrux
+Conflicts: firmware-iwlwifi, firmware-intel-sound, firmware-intel-graphics, firmware-intel-misc
+Architecture: amd64
+Description: Firmware files for Intel devices.
+ Unified package that includes firmware for Intel audio, graphics, integrated sensor hubs, wired, and wireless devices.

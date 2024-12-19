@@ -1,0 +1,5 @@
+firmware-iwlwifi-nitrux (0.0.1)  nitrux; urgency=medium
+
+  * Create package.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Wed, 18 Dec 2024 17:43:00 -0500
