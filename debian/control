@@ -8,7 +8,7 @@ Homepage: https://github.com/Nitrux/firmware-iwlwifi-nitrux
 
 
 Package: firmware-intel-nitrux
-Conflicts: firmware-iwlwifi, firmware-intel-sound, firmware-intel-graphics, firmware-intel-misc
 Architecture: amd64
+Conflicts: firmware-iwlwifi, firmware-intel-sound, firmware-intel-graphics, firmware-intel-misc
 Description: Firmware files for Intel devices.
  Unified package that includes firmware for Intel audio, graphics, integrated sensor hubs, wired, and wireless devices.
