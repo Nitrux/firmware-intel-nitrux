@@ -1,6 +1,6 @@
 firmware-intel-nitrux (0.0.2)  nitrux; urgency=medium
 
-  * Sync filre from linux-firmware.
+  * Sync files from linux-firmware.
 
  -- Uri Herrera <uri_herrera@nxos.org>  Wed, 22 Jan 2025 10:37:00 -0500
 
