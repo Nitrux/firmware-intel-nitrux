@@ -1,3 +1,9 @@
+firmware-intel-nitrux (0.0.3)  nitrux; urgency=medium
+
+  * Add firmware files from linux-firmware as of commit 722d0d12.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 01 Jan 2025 07:38:00 -0500
+
 firmware-intel-nitrux (0.0.2)  nitrux; urgency=medium
 
   * Sync files from linux-firmware.
