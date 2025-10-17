@@ -1,3 +1,9 @@
+firmware-intel-nitrux (0.0.7)  nitrux; urgency=medium
+
+  * Add files up to commit bd4d2bde.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 16 Oct 2025 01:58:00 -0500
+
 firmware-intel-nitrux (0.0.6)  nitrux; urgency=medium
 
   * Add files up to commit ecdbd2b8.
